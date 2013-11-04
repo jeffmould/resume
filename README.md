@@ -12,7 +12,42 @@ Fenwick Island, DE 19944<br />
 <h2>SKILLS</h2>
 
 <h2>EXPERIENCE</h2>
-
+<p>
+<strong>Fenwick Media, Inc. - Fenwick Island, DE | 2012 - 2013</strong><br />
+<em>Founder/Web Developer</em>
+</p>
+<p>
+<strong>NJG Food Service, Inc. ("The Crab Bag") - Ocean City, MD | 2011 - 2013</strong><br />
+<em>Head Server</em>
+</p>
+<p>
+<strong>Charlie's Bay Side Restaurant - Fenwick Island, DE | 2008 - 2010</strong><br />
+<em>Kitchen Manager</em>
+</p>
+<p>
+<strong>Announce Mobile, Inc. - Baltimore, MD | 2007 - 2009</strong><br />
+<em>Founder/CEO</em>
+</p>
+<p>
+<strong>Central Florida Removal Service, Inc. - Lake Wales, FL | 2001 - 2007</strong><br />
+<em>Shift Supervisor</em>
+</p>
+<p>
+<strong>Microsoft Corporation - Charlotte, NC | 2000 - 2001</strong><br />
+<em>Technical Account Manager</em>
+</p>
+<p>
+<strong>USinternetworking - Annapolis, MD | 1998 - 2000</strong><br />
+<em>Senior System Engineer</em>
+</p>
+<p>
+<strong>Group 1 Software - Landover, MD | 1998 - 1998</strong><br />
+<em>Network Administrator</em>
+</p>
+<p>
+<strong>Vitro Corporation - Rockville, MD | 1995 - 1998</strong><br />
+<em>Network Administrator</em>
+</p>
 <h2>EDUCATION</h2>
 <p><strong>University of Maryland University College</strong><br />
 <em>Computer &amp; Information Sciences, 2008 - Present</em></p>
