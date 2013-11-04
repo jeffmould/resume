@@ -14,7 +14,12 @@ Fenwick Island, DE 19944<br />
 <h2>EXPERIENCE</h2>
 
 <h2>EDUCATION</h2>
-
+<p><strong>University of Maryland University College</strong><br />
+<em>Computer &amp; Information Sciences, 2008 - Present</em></p>
+<p><strong>Frostburg State University</strong><br />
+<em>Management Information Systems, 1990 - 1995</em></p>
+<p><strong>St. John's College High School</strong><br />
+<em>Diploma, 1985 - 1990</em></p>
 <h2>CERTIFICATIONS</h2>
 
 <h2>MEMBERSHIPS/AFFILIATIONS/AWARDS</h2>
