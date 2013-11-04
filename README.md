@@ -21,7 +21,9 @@ Fenwick Island, DE 19944<br />
 <p><strong>St. John's College High School</strong><br />
 <em>Diploma, 1985 - 1990</em></p>
 <h2>CERTIFICATIONS</h2>
-
+<p>Microsoft Certified System Engineer (MCSE) - 1999</p>
+<p>Compaq Accredited System Engineer - 1999</p>
+<p>Certified Novell Administrator - 1996</p>
 <h2>MEMBERSHIPS/AFFILIATIONS/AWARDS</h2>
 <p><strong>Burtonsville Volunteer Fire Department</strong></p>
 <ul>
