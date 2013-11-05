@@ -19,6 +19,8 @@ Fenwick Island, DE 19944<br />
 	<li><strong>Tools:</strong> MS Office, Sublime, NetBeans, Eclipse, git</li>
 	<li><strong>Also worked with:</strong> Perl, Java, C++</li>
 </ul>
+<h2>SPECIALTIES</h2>
+<p>Web development, startups, project management, IT management/operations, social media, SEO, technology planning, cloud computing, business development, people management, customer relations, team building</p>
 <h2>HIGHLIGHTS</h2>
 <ul>
 	<li>Consistently recognized by senior management for support of internal and external customer projects</li>
@@ -28,8 +30,6 @@ Fenwick Island, DE 19944<br />
 	<li>Implemented first-of-its-kind multi-vender support agreement to facilitate 24x7x365 rapid onsite support of mission critical systems</li>
 	<li>Multiple awards including Rookie of the Year, Top Duty Nights, and Top Responder with Burtonsville Volunteer Fire Department</li>
 </ul>
-<h2>SPECIALTIES</h2>
-<p>Web development, startups, project management, IT management/operations, social media, SEO, technology planning, cloud computing, business development, people management, customer relations, team building</p>
 <h2>EXPERIENCE</h2>
 <p>
 <strong>Fenwick Media, Inc. - Fenwick Island, DE | 2012 - 2013</strong><br />
