@@ -16,6 +16,7 @@ Fenwick Island, DE 19944<br />
 	<li><strong>Databases:</strong> mySQL, MongoDB</li>
 	<li><strong>Operating Systems:</strong> Windows, Linux, OS X</li>
 	<li><strong>Frameworks:</strong> WordPress, Laravel, Codeigniter, Prototype, JQuery</li>
+	<li><strong>Tools:</strong> MS Office, Sublime, NetBeans, Eclipse, git</li>
 	<li><strong>Also worked with:</strong> Perl, Java, C++</li>
 </ul>
 <h2>HIGHLIGHTS</h2>
