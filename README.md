@@ -16,7 +16,7 @@ Fenwick Island, DE 19944<br />
 	<li><strong>Databases:</strong> mySQL, MongoDB</li>
 	<li><strong>Operating Systems:</strong> Windows, Linux, OS X</li>
 	<li><strong>Frameworks:</strong> WordPress, Laravel, Codeigniter, Prototype, JQuery</li>
-	<li><strong>Tools:</strong> MS Office, Sublime, NetBeans, Eclipse, git</li>
+	<li><strong>Tools:</strong> MS Office, Sublime, NetBeans, Eclipse, git, cPanel, WHM, VMWare</li>
 	<li><strong>Also worked with:</strong> Perl, Java, C++</li>
 </ul>
 <h2>SPECIALTIES</h2>
@@ -181,3 +181,5 @@ Fenwick Island, DE 19944<br />
 	<li><a href="http://youtube.com/jeffmould">YouTube</a></li>
 	<li><a href="http://google.com/+JeffMould" rel="author">Google+</a></li>
 </ul>
+<h2>HOBBIES/INTERESTS</h2>
+<p>Traveling, snow skiing, jet ski, Washington Redskins, Maryland Terps</p>
