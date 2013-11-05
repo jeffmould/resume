@@ -97,10 +97,11 @@ Fenwick Island, DE 19944<br />
 <em>Network Operations Center Supervisor</em>
 </p>
 <ul>
-	<li>Managed team of engineers to monitor and troubleshoot issues with over 300 servers and systems in global data centers</li>
+	<li>Managed team of engineers to monitor and troubleshoot issues with over 300 Linux &amp; Windows-based servers in global data centers</li>
 	<li>Ensured timely and accurate backups of all systems</li>
 	<li>Oversaw data center security and responded to critical incidents</li>
 	<li>Monitored and responded to server and network events utilizing Tivoli network monitoring</li>
+	<li>Work with various business units to respond to address customer trouble tickets and service requests</li>
 </ul>
 <p>
 <strong>USinternetworking (<em>acquired by AT&amp;T</em>) - Annapolis, MD | 1999 - 2000</strong><br />
@@ -111,6 +112,7 @@ Fenwick Island, DE 19944<br />
 	<li>Worked with data center personnel to install new servers</li>
 	<li>Provided 24x7x365 response to all critical incidents with internal corporate systems</li>
 	<li>Managed various support agreements with multiple vendors for internal systems</li>
+	<li>Develop and execute system migration, implementation, and upgrade plans.</li>
 </ul>
 <p>
 <strong>USinternetworking (<em>acquired by AT&amp;T</em>) - Annapolis, MD | 1999 - 2000</strong><br />
@@ -119,6 +121,7 @@ Fenwick Island, DE 19944<br />
 <ul>
 	<li>Employee #27 of Internet startup</li>
 	<li>Oversaw ordering, setup, and installation of new employee desktops and laptops</li>
+	<li>Work with team members to address and handle trouble tickets and service requests.</li>
 	<li>Worked with team of engineers to setup, install, and manage all internal network systems</li>
 	<li>Managed MS Exchange e-mail system</li>
 </ul>
@@ -141,6 +144,7 @@ Fenwick Island, DE 19944<br />
 	<li>Evaluated and proposed new hardware and software solutions</li>
 	<li>Established and maintained relationships with both internal and external IT providers</li>
 	<li>Performed routine maintenance, upgrades, and installations of desktops, servers, and software</li>
+	<li>Prepare, review, and implement documentation related to IT policies and procedures.</li>
 </ul>
 <h2>EDUCATION</h2>
 <p><strong>University of Maryland University College</strong><br />
