@@ -21,13 +21,15 @@ Fenwick Island, DE 19944<br />
 </ul>
 <h2>HIGHLIGHTS</h2>
 <ul>
-	<li>Consistently recognized by senior management on multiple occassions for support of client projects</li>
+	<li>Consistently recognized by senior management for support of internal and external customer projects</li>
 	<li>Hand selected by CEO to provide support to private and personal networks including in home locations</li>
 	<li>Provided onsite support for major media outlet to monitor all technical aspects related to the Summer 2000 Olympics</li>
 	<li>Recognized by customers and management alike for attention to detail and level of support in maintaining customer relationships</li>
 	<li>Implemented first-of-its-kind multi-vender support agreement to facilitate 24x7x365 rapid onsite support of mission critical systems</li>
 	<li>Multiple awards including Rookie of the Year, Top Duty Nights, and Top Responder with Burtonsville Volunteer Fire Department</li>
 </ul>
+<h2>SPECIALTIES</h2>
+<p>Web development, startups, project management, IT management/operations, social media, SEO, technology planning, cloud computing, business development, people management, customer relations, team building</p>
 <h2>EXPERIENCE</h2>
 <p>
 <strong>Fenwick Media, Inc. - Fenwick Island, DE | 2012 - 2013</strong><br />
