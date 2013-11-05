@@ -9,9 +9,15 @@ Fenwick Island, DE 19944<br />
 <h2>EXECUTIVE SUMMARY</h2>
 <p>Results-driven, technology specialist with over 18 years experience implementing and managing enterprise systems in a multitude of industries and organizations types ranging from startups to Fortune 500 companies. Has successfully built and managed teams a system engineer and a manager. Apply a high attention to detail in planning, developing, and managing projects. Executive level experience establishing relationships and communicating with partners, investors, and customers. Utilize time management and organization skills to effectively manage multiple tasks.</p>
 <p>Firm grasp of core web programming languages including PHP, HTML, CSS, and JavaScript and hands-on experience in the setup, configuration, and management of mySQL and MongoDB database solutions. Strong technical expertise developing scalable frontend and backend solutions on a variety of platforms including dedicated systems, VPS, and AWS. Thorough knowledge of Apache and Nginx web server platforms.</p>
-<h2>SKILLS</h2>
-
-
+<h2>TECHNICAL SKILLS</h2>
+<ul>
+	<li><strong>Languages:</strong>PHP, HTML, XML, CSS, JavaScript</li>
+	<li><strong>Web Servers:</strong> Apache, Nginx</li>
+	<li><strong>Databases:</strong> mySQL, MongoDB</li>
+	<li><strong>Operating Systems:</strong> Windows, Linux, OS X</li>
+	<li><strong>Frameworks:</strong> WordPress, Laravel, Codeigniter, Prototype, JQuery</li>
+	<li><strong>Also worked with:</strong> Perl, Java, C++</li>
+</ul>
 <h2>HIGHLIGHTS</h2>
 <ul>
 	<li>Consistently recognized by senior management on multiple occassions for support of client projects</li>
