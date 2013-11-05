@@ -169,3 +169,13 @@ Fenwick Island, DE 19944<br />
 <p><strong>Sigma Tau Gamma National Fraternity</strong></p>
 <p><strong>Phi Eta Sigma National Freshman Honor Society, 1990</strong></p>
 <p><strong>2nd Lieutenant/Platoon Commander - JROTC, 1989-1990</strong></p>
+<h2>ON THE WEB</h2>
+<ul>
+	<li><a href="http://www.jeffmould.com">My Tech Blog</a></li>
+	<li><a href="http://jeffmould.blogspot.com">My Personal Blog</a></li>
+	<li><a href="http://twitter.com/jeffmould">Follow Me on Twitter</a></li>
+	<li><a href="http://www.linkedin.com/in/jeffmould">LinkedIn</a></li>
+	<li><a href="http://facebook.com/thejeffmould">Facebook</a></li>
+	<li><a href="http://youtube.com/jeffmould">YouTube</a></li>
+	<li><a href="http://google.com/+JeffMould" rel="author">Google+</a></li>
+</ul>
